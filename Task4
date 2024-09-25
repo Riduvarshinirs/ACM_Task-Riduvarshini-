@@ -1,7 +1,0 @@
-Deploy a Web Application on AWS
-link to thewebsite: https://task0.s3.ap-south-1.amazonaws.com/index.html
-
-Login into AWS account then go to S3, create bucket and name the bucket then upload all the html files.
-Go to edit static website hosting and specify the name of the webpage.
-Then go to permissions and uncheck block all public access.
-Edit object ownership and select ACLs enabled.Select all files and click make public using ASL then open the url, you can see your website.
